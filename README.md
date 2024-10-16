@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **espallardo.je@gmail.com**
+- 📫 How to reach me: **espallardo.je@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

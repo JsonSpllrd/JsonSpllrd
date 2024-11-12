@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Espallardo</h1>
 <h3 align="center">An aspiring web developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Javascript**
-
 - 📫 How to reach me: **espallardo.je@gmail.com**
 
 
